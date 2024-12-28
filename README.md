@@ -1,2 +1,1 @@
-# TripNext
-TripNext is a sleek and user-friendly hotel booking app designed with modern travelers in mind.
+TripNext is a sleek and user-friendly hotel booking app designed with modern travelers in mind. Created using Figma on iPhone 14 and 15 frame sizes, it offers a visually appealing and responsive interface tailored for seamless navigation on the latest devices. Whether you're planning a getaway or a business trip, TripNext simplifies the booking experience with intuitive features and a stylish design.
